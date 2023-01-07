@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "target": "es2016",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "strict": false,
+    "skipLibCheck": true, 
+    "noImplicitAny": true,
+    "outDir":"dist"
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
